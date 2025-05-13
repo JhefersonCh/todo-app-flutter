@@ -1,16 +1,36 @@
-# todo
+# ✅ Flutter TODO App
 
-A new Flutter project.
+Una aplicación simple de tareas (TODO) hecha en Flutter, siguiendo el [tutorial oficial de Flutter](https://docs.flutter.dev/get-started/codelab).
 
-## Getting Started
+## 📱 Características
 
-This project is a starting point for a Flutter application.
+- Añadir tareas
+- Marcar tareas como completadas
+- Eliminar tareas
+- Persistencia local (dependiendo del tutorial que hayas seguido)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologías
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/) (versión recomendada por el tutorial)
+- [Dart](https://dart.dev/)
+- Widgets nativos de Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/JhefersonCh/todo-app-flutter.git
+   cd todo-app-flutter
+   1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/JhefersonCh/notes_app_frontend.git
+   cd notes_app_frontend
+   
+2. Instala las dependencias:
+   ```bash
+   flutter pub get
+
+3. Inicia el servidor de desarrollo:
+   ```bash
+   flutter run
+
