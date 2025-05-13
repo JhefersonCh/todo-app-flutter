@@ -21,10 +21,6 @@ Una aplicación simple de tareas (TODO) hecha en Flutter, siguiendo el [tutorial
    ```bash
    git clone https://github.com/JhefersonCh/todo-app-flutter.git
    cd todo-app-flutter
-   1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/JhefersonCh/notes_app_frontend.git
-   cd notes_app_frontend
    
 2. Instala las dependencias:
    ```bash
